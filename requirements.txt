@@ -13,7 +13,7 @@ pdfplumber==0.9.0
 python-telegram-bot==20.6
 apscheduler==3.10.1
 simhash==2.1.2
-snscrape==0.4.4
+snscrape==0.6.2
 gTTS==2.4.1
 requests==2.31.0
 boto3==1.28.32
